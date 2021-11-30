@@ -11,11 +11,11 @@ class LeadGeneration {
                 'type': String,
                 'required': true,
             },
-            'leadGenerationDescription': {
+            'leadGenerationtitle': {
                 'type': String,
                 'required': true,
             },
-            'leadGenerationMascot': {
+            'leadGenerationDescription': {
                 'type': String,
                 'required': true,
             },
