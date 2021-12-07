@@ -11,23 +11,15 @@ class YoutubeMarketing {
                 'type': String,
                 'required': true,
             },
+            'youtubeMarketingtitle': {
+                'type': String,
+                'required': true,
+            },
             'youtubeMarketingDescription': {
                 'type': String,
                 'required': true,
             },
-            'youtubeMarketingMascot': {
-                'type': String,
-                'required': true,
-            },
             'youtubeMarketingBenefitBusi': {
-                'type': String,
-                'required': true,
-            },
-            'youtubeMarketingCaseStudiesImage': {
-                'type': String,
-                'required': true,
-            },
-            'youtubeMarketingCaseStudiesDescription': {
                 'type': String,
                 'required': true,
             },
