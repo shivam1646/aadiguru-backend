@@ -11,23 +11,15 @@ class LocalAds {
                 'type': String,
                 'required': true,
             },
+            'localAdstitle': {
+                'type': String,
+                'required': true,
+            },
             'localAdsDescription': {
                 'type': String,
                 'required': true,
             },
-            'localAdsMascot': {
-                'type': String,
-                'required': true,
-            },
             'localAdsBenefitBusi': {
-                'type': String,
-                'required': true,
-            },
-            'localAdsCaseStudiesImage': {
-                'type': String,
-                'required': true,
-            },
-            'localAdsCaseStudiesDescription': {
                 'type': String,
                 'required': true,
             },
