@@ -11,11 +11,11 @@ class BoostDigitalPresence {
                 'type': String,
                 'required': true,
             },
-            'boostDigitalPresenceDescription': {
+            'boostDigitalPresencetitle': {
                 'type': String,
                 'required': true,
             },
-            'boostDigitalPresenceMascot': {
+            'boostDigitalPresenceDescription': {
                 'type': String,
                 'required': true,
             },
@@ -24,14 +24,6 @@ class BoostDigitalPresence {
                 'required': true,
             },
             'boostDigitalPresenceVideoDescription': {
-                'type': String,
-                'required': true,
-            },
-            'boostDigitalPresenceCaseStudiesImage': {
-                'type': String,
-                'required': true,
-            },
-            'boostDigitalPresenceCaseStudiesDescription': {
                 'type': String,
                 'required': true,
             },
