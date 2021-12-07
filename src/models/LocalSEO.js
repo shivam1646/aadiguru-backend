@@ -11,23 +11,15 @@ class LocalSEO {
                 'type': String,
                 'required': true,
             },
+            'localSEOtitle': {
+                'type': String,
+                'required': true,
+            },
             'localSEODescription': {
                 'type': String,
                 'required': true,
             },
-            'localSEOMascot': {
-                'type': String,
-                'required': true,
-            },
             'localSEOBenefitBusi': {
-                'type': String,
-                'required': true,
-            },
-            'localSEOCaseStudiesImage': {
-                'type': String,
-                'required': true,
-            },
-            'localSEOCaseStudiesDescription': {
                 'type': String,
                 'required': true,
             },
