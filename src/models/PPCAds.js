@@ -11,23 +11,15 @@ class PPCAds {
                 'type': String,
                 'required': true,
             },
+            'ppcAdstitle': {
+                'type': String,
+                'required': true,
+            },
             'ppcAdsDescription': {
                 'type': String,
                 'required': true,
             },
-            'ppcAdsMascot': {
-                'type': String,
-                'required': true,
-            },
             'ppcAdsBenefitBusi': {
-                'type': String,
-                'required': true,
-            },
-            'ppcAdsCaseStudiesImage': {
-                'type': String,
-                'required': true,
-            },
-            'ppcAdsCaseStudiesDescription': {
                 'type': String,
                 'required': true,
             },
