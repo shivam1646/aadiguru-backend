@@ -11,23 +11,15 @@ class EmailMarketing {
                 'type': String,
                 'required': true,
             },
+            'emailMarketingtitle': {
+                'type': String,
+                'required': true,
+            },
             'emailMarketingDescription': {
                 'type': String,
                 'required': true,
             },
-            'emailMarketingMascot': {
-                'type': String,
-                'required': true,
-            },
             'emailMarketingBenefitBusi': {
-                'type': String,
-                'required': true,
-            },
-            'emailMarketingCaseStudiesImage': {
-                'type': String,
-                'required': true,
-            },
-            'emailMarketingCaseStudiesDescription': {
                 'type': String,
                 'required': true,
             },
