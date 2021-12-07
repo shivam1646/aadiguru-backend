@@ -11,23 +11,15 @@ class SEOAudit {
                 'type': String,
                 'required': true,
             },
+            'seoAudittitle': {
+                'type': String,
+                'required': true,
+            },
             'seoAuditDescription': {
                 'type': String,
                 'required': true,
             },
-            'seoAuditMascot': {
-                'type': String,
-                'required': true,
-            },
             'seoAuditBenefitBusi': {
-                'type': String,
-                'required': true,
-            },
-            'seoAuditCaseStudiesImage': {
-                'type': String,
-                'required': true,
-            },
-            'seoAuditCaseStudiesDescription': {
                 'type': String,
                 'required': true,
             },
