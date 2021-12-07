@@ -11,23 +11,15 @@ class DisplayAds {
                 'type': String,
                 'required': true,
             },
+            'displayAdstitle': {
+                'type': String,
+                'required': true,
+            },
             'displayAdsDescription': {
                 'type': String,
                 'required': true,
             },
-            'displayAdsMascot': {
-                'type': String,
-                'required': true,
-            },
             'displayAdsBenefitBusi': {
-                'type': String,
-                'required': true,
-            },
-            'displayAdsCaseStudiesImage': {
-                'type': String,
-                'required': true,
-            },
-            'displayAdsCaseStudiesDescription': {
                 'type': String,
                 'required': true,
             },
