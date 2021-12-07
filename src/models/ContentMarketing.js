@@ -11,23 +11,15 @@ class ContentMarketing {
                 'type': String,
                 'required': true,
             },
+            'contentMarketingtitle': {
+                'type': String,
+                'required': true,
+            },
             'contentMarketingDescription': {
                 'type': String,
                 'required': true,
             },
-            'contentMarketingMascot': {
-                'type': String,
-                'required': true,
-            },
             'contentMarketingBenefitBusi': {
-                'type': String,
-                'required': true,
-            },
-            'contentMarketingCaseStudiesImage': {
-                'type': String,
-                'required': true,
-            },
-            'contentMarketingCaseStudiesDescription': {
                 'type': String,
                 'required': true,
             },
