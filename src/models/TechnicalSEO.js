@@ -11,23 +11,15 @@ class TechnicalSEO {
                 'type': String,
                 'required': true,
             },
+            'technicalSEOtitle': {
+                'type': String,
+                'required': true,
+            },
             'technicalSEODescription': {
                 'type': String,
                 'required': true,
             },
-            'technicalSEOMascot': {
-                'type': String,
-                'required': true,
-            },
             'technicalSEOBenefitBusi': {
-                'type': String,
-                'required': true,
-            },
-            'technicalSEOCaseStudiesImage': {
-                'type': String,
-                'required': true,
-            },
-            'technicalSEOCaseStudiesDescription': {
                 'type': String,
                 'required': true,
             },
