@@ -11,23 +11,15 @@ class SocialMediaMarketing {
                 'type': String,
                 'required': true,
             },
+            'socialMediaMarketingtitle': {
+                'type': String,
+                'required': true,
+            },
             'socialMediaMarketingDescription': {
                 'type': String,
                 'required': true,
             },
-            'socialMediaMarketingMascot': {
-                'type': String,
-                'required': true,
-            },
             'socialMediaMarketingBenefitBusi': {
-                'type': String,
-                'required': true,
-            },
-            'socialMediaMarketingCaseStudiesImage': {
-                'type': String,
-                'required': true,
-            },
-            'socialMediaMarketingCaseStudiesDescription': {
                 'type': String,
                 'required': true,
             },
