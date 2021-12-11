@@ -15,7 +15,7 @@ class BlogController {
     async getBlogList(req, res, next) {
         try {
             const blogList = await this.service.blogList();
-            await res.status(200).json(blogList);
+            await res.status(200).json({ items: blogList });
         } catch (e) {
             next(e);
         }
