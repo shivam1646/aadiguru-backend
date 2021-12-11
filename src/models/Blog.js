@@ -13,7 +13,7 @@ class Blog {
             },     
             'blogImage': {
                 'type': String,
-                'required': true,
+                'required': false,
             },
             'blogdescription': {
                 'type': String,
@@ -21,15 +21,15 @@ class Blog {
             },
             'blogmetaTag1': {
                 'type': String,
-                'required': true,
+                'required': false,
             },
             'blogmetaTag2': {
                 'type': String,
-                'required': true,
+                'required': false,
             },
             'blogmetaTag3': {
                 'type': String,
-                'required': true,
+                'required': false,
             },
             'deleted': {
                 'type': Boolean,
