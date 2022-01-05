@@ -103,18 +103,6 @@ class SEOAudit {
                 'type' : String,
                 'required' : true,
             },
-            'seoAuditmetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'seoAuditmetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'seoAuditmetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
