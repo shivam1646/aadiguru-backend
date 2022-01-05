@@ -103,18 +103,6 @@ class LocalSEO {
                 'type' : String,
                 'required' : true,
             },
-            'localSEOmetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'localSEOmetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'localSEOmetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
