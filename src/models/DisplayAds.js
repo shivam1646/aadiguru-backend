@@ -103,18 +103,6 @@ class DisplayAds {
                 'type' : String,
                 'required' : true,
             },
-            'displayAdsmetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'displayAdsmetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'displayAdsmetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
