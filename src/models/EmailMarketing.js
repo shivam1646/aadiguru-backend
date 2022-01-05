@@ -103,18 +103,6 @@ class EmailMarketing {
                 'type' : String,
                 'required' : true,
             },
-            'emailMarketingmetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'emailMarketingmetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'emailMarketingmetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
