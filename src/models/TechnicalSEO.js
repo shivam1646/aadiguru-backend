@@ -103,18 +103,6 @@ class TechnicalSEO {
                 'type' : String,
                 'required' : true,
             },
-            'technicalSEOmetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'technicalSEOmetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'technicalSEOmetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
