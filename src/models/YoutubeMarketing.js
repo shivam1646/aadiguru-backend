@@ -103,18 +103,6 @@ class YoutubeMarketing {
                 'type' : String,
                 'required' : true,
             },
-            'youtubeMarketingmetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'youtubeMarketingmetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'youtubeMarketingmetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
