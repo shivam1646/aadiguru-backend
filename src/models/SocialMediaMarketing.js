@@ -103,18 +103,6 @@ class SocialMediaMarketing {
                 'type' : String,
                 'required' : true,
             },
-            'socialMediaMarketingmetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'socialMediaMarketingmetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'socialMediaMarketingmetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
