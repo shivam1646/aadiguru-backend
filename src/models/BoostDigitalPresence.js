@@ -107,18 +107,6 @@ class BoostDigitalPresence {
                 'type' : String,
                 'required' : true,
             },
-            'boostDigitalPresencemetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'boostDigitalPresencemetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'boostDigitalPresencemetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
