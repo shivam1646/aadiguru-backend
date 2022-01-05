@@ -115,18 +115,6 @@ class LeadGeneration {
                 'type' : String,
                 'required' : true,
             },
-            'leadGenerationmetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'leadGenerationmetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'leadGenerationmetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
