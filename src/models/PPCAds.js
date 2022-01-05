@@ -103,18 +103,6 @@ class PPCAds {
                 'type' : String,
                 'required' : true,
             },
-            'ppcAdsmetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'ppcAdsmetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'ppcAdsmetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
