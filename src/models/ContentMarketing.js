@@ -103,18 +103,6 @@ class ContentMarketing {
                 'type' : String,
                 'required' : true,
             },
-            'contentMarketingmetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'contentMarketingmetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'contentMarketingmetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
