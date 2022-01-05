@@ -103,18 +103,6 @@ class LocalAds {
                 'type' : String,
                 'required' : true,
             },
-            'localAdsmetaTag1': {
-                'type': String,
-                'required': true,
-            },
-            'localAdsmetaTag2': {
-                'type': String,
-                'required': true,
-            },
-            'localAdsmetaTag3': {
-                'type': String,
-                'required': true,
-            },
             'deleted': {
                 'type': Boolean,
                 'default': false
